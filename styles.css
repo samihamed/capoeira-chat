@@ -1,0 +1,23 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    padding: 2em;
+    margin: 20vh auto;
+    text-align: center;
+    width: 500px;
+}
+
+img {
+    height: 20vh;
+}
+
+a {
+    color: #35ace1;
+}
+
+ol {
+    text-align: left;
+}
+
+code {
+    font-size: 1.2em;
+}
