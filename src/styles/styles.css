@@ -37,6 +37,7 @@ h1 {
 h2, h3 {
     font-family: 'Galada';
     color: #505050;
+    margin: 1em;
 }
 
 .content {
