@@ -23,21 +23,33 @@ header > .logo {
     margin: 1.5em auto 0 auto;
 }
 
+h1, h2, h3 {
+    font-family: 'Galada';
+}
+
 h1 {
     color: white;
     background-color: transparent;
-    font-family: 'Galada';
     font-size: 2em;
 }
 
-h1 {
-    margin: .5em 0;
+h1, h2 {
+    margin: .5em;
 }
 
-h2, h3 {
-    font-family: 'Galada';
+h2 {
     color: #505050;
+    text-align: center;
+}
+
+h2 > code {
+    color: orange;
+}
+
+h3 {
+    color: #3ea3d7;
     margin: 1em;
+    text-align: center;
 }
 
 .content {
