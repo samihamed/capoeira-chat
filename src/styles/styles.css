@@ -69,6 +69,11 @@ h3 {
     width: 280px;
 }
 
+.preview-hidden {
+    height: 1px;
+    width: 1px;
+}
+
 a {
     color: white;
 }
